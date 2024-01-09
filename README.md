@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there, I am Kirill 👋
+![Static Badge](https://img.shields.io/badge/CPP-gray?style=for-the-badge&logo=c%2B%2B&logoColor=red)
+![Static Badge](https://img.shields.io/badge/GO-blue?style=for-the-badge&logo=go&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SRE-black?style=for-the-badge)
+
+## About me
+- average cpp enjoyer
+- i use Linux btw (unfortunately)
+- information security (4th year)
+- passed the Tinkoff SRE course (certificate is on the way)
+- i'm taking the Tinkoff GO course
 
 <!--
 **KirillVelichk0/KirillVelichk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
