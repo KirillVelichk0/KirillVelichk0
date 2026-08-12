@@ -4,11 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/SRE-black?style=for-the-badge)
 
 ## About me
-- average cpp enjoyer
-- i use Linux btw (unfortunately)
-- information security (4th year)
-- passed the Tinkoff SRE course (certificate is on the way)
-- i'm taking the Tinkoff GO course
+- C++ dev
 
 <!--
 **KirillVelichk0/KirillVelichk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
